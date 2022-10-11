@@ -1,6 +1,6 @@
 # Introduction to the Linux Shell: Shell Scripting
 
-This repository is maintained by Ben Winjum for use in UCLA IDRE's introductory training class on interacting with the Linux Shell.
+This repository is maintained by Ben Winjum for use in UCLA OARC's introductory training class on interacting with the Linux Shell.
 
 ## Interacting with JupyterHub/BASH for class
 
