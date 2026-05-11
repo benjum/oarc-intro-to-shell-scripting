@@ -44,4 +44,4 @@ echo "
 " >> myimages.html
 
 # convert html page to PDF
-pandoc myimages.html -o myimages.pdf
+weasyprint myimages.html myimages.pdf
